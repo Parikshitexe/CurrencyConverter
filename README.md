@@ -19,7 +19,7 @@ API: fawazahmed0/currency-api
 
 📸 Preview
 
-
+![App Screenshot](screenshot.png)
 
 ⚡ How to Use
 
